@@ -42,7 +42,7 @@ Date of finished: 28.04.2026
 
 
 
-!\[Создание сервисного аккаунта](./screenshots/s11.png)
+![Создание сервисного аккаунта](screenshots/s11.png)
 
 \*Рисунок 1 — Назначение роли Storage Admin для ebulgakova-sa-lab1\*
 
@@ -74,7 +74,7 @@ Date of finished: 28.04.2026
 
 
 
-!\[Работа с файлами](screenshots/s13.png)
+![Работа с файлами](screenshots/s13.png)
 
 \*Рисунок 3 — Результат выполнения команды ls -lah после копирования данных\*
 
@@ -86,7 +86,7 @@ Date of finished: 28.04.2026
 
 
 
-!\[Ошибка доступа](screenshots/s14.png)
+![Ошибка доступа](screenshots/s14.png)
 
 \*Рисунок 4 — Ошибка AccessDeniedException (403) при попытке обращения к хранилищу\*
 
