@@ -42,7 +42,7 @@ Date of finished: 28.04.2026
 
 
 
-!\[Создание сервисного аккаунта](screenshots/s11.png)
+!\[Создание сервисного аккаунта](./screenshots/s11.png)
 
 \*Рисунок 1 — Назначение роли Storage Admin для ebulgakova-sa-lab1\*
 
